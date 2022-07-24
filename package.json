@@ -1,0 +1,27 @@
+{
+  "name": "wave-portal",
+  "version": "1.0.0",
+  "description": "this is a smart contract written in solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wairimu-ian/wave-portal.git"
+  },
+  "author": "Ian Moon Wairimu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wairimu-ian/wave-portal/issues"
+  },
+  "homepage": "https://github.com/wairimu-ian/wave-portal#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.0",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.9",
+    "hardhat": "^2.9.9"
+  }
+}
