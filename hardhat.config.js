@@ -24,10 +24,5 @@ module.exports = {
       url: process.env.STAGING_KEY,
       accounts: [process.env.PRIVATE_KEY]
     },
-    // mainnet: {
-    //   chainId: 1,
-    //   url: "",
-    //   accounts: [""],
-    // }
   }
 };
